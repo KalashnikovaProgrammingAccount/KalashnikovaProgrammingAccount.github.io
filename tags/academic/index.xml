@@ -5,12 +5,96 @@
     <link>http://localhost:1313/tags/academic/</link>
       <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
       <link>http://localhost:1313/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>🎉 Пост по неделе 24-30 марта</title>
+      <link>http://localhost:1313/post/summary2/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary2/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели:&lt;/h2&gt;
+&lt;p&gt;🌞 Эта неделя была наполнена солнечным теплом и весенней магией!&lt;/p&gt;
+&lt;p&gt;С самого утра до позднего вечера нас радовала по-настоящему летняя погода: безоблачное лазурное небо, температура, которая не опускалась ниже +10, и лёгкий свежий ветерок, приносящий ароматы распускающейся зелени. 🌿☀️ Казалось, сама природа наконец проснулась после долгой зимы и теперь щедро делится своей энергией!&lt;/p&gt;
+&lt;p&gt;Каждый день начинался с яркого солнца, заливающего комнату золотистыми лучами, и весёлого щебета птиц за окном. В обеденное время городские парки и скверы наполнялись людьми — кто-то устраивал пикники на зелёных лужайках, кто-то неспешно прогуливался по аллеям, а кто-то просто сидел на лавочках, закрыв глаза и подставляя лицо тёплым лучам.&lt;/p&gt;
+&lt;p&gt;Я успел(а) в полной мере насладиться этой прекрасной погодой:&lt;br&gt;
+✔️ Долгие прогулки по любимым местам, где деревья уже покрылись молодой листвой;&lt;br&gt;
+✔️ Велопрогулки по набережной — ветер в лицо, солнце в волосах и ощущение полной свободы;&lt;br&gt;
+✔️ Чтение любимых книг в уютных уличных кафе под аккомпанемент весенней капели;&lt;br&gt;
+✔️ Вечерние посиделки с друзьями в открытых летних террасах, где можно было болтать до самого заката.&lt;/p&gt;
+&lt;p&gt;Особенно запомнился один из вечеров, когда после тёплого дня небо окрасилось в невероятные розово-золотистые тона, и казалось, будто весь город замер, любуясь этим волшебством. 🌇&lt;/p&gt;
+&lt;p&gt;Теперь только и ждёшь, что такие дни станут постоянными спутниками этой весны! Ведь когда за окном такая погода, даже обычные будни наполняются радостью и вдохновением.&lt;/p&gt;
+&lt;p&gt;А как вы провели эту чудесную неделю? Удалось ли поймать солнечные моменты? Делитесь своими впечатлениями — давайте вместе сохраним это тёплое настроение! 💛✨&lt;/p&gt;
+&lt;p&gt;#Весна2025 #СолнечныеДни&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Разметка Markdown</title>
+      <link>http://localhost:1313/post/markdown/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/markdown/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+&lt;h3 id=&#34;-markdown--гениальная-простота-для-оформления-текста&#34;&gt;🚀 &lt;strong&gt;Markdown — гениальная простота для оформления текста&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Хотите легко форматировать текст &lt;strong&gt;без Word и сложных редакторов&lt;/strong&gt;? &lt;strong&gt;Markdown&lt;/strong&gt; — ваш идеальный выбор! Это легковесный язык разметки, который:&lt;br&gt;
+✔ &lt;strong&gt;Работает где угодно&lt;/strong&gt; — GitHub, Notion, Telegram, Reddit, VSCode&lt;br&gt;
+✔ &lt;strong&gt;Преобразуется в HTML, PDF и другие форматы&lt;/strong&gt;&lt;br&gt;
+✔ &lt;strong&gt;Позволяет сосредоточиться на содержании, а не на оформлении&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;И самое главное — &lt;strong&gt;освоить его можно за 5 минут!&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-шпаргалка-по-markdown&#34;&gt;🔥 &lt;strong&gt;Шпаргалка по Markdown&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;-1-заголовки&#34;&gt;📌 &lt;strong&gt;1. Заголовки&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# H1 (как &amp;lt;h1&amp;gt; в HTML)  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## H2  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### H3  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;#### H4  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-2-текст&#34;&gt;✏️ &lt;strong&gt;2. Текст&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Жирный&lt;/strong&gt;: &lt;code&gt;**текст**&lt;/code&gt; или &lt;code&gt;__текст__&lt;/code&gt; → &lt;strong&gt;текст&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Курсив&lt;/em&gt;: &lt;code&gt;*текст*&lt;/code&gt; или &lt;code&gt;_текст_&lt;/code&gt; → &lt;em&gt;текст&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Зачёркнутый&lt;/del&gt;: &lt;code&gt;~~текст~~&lt;/code&gt; → &lt;del&gt;текст&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Код&lt;/code&gt;: &lt;code&gt;`код`&lt;/code&gt; → &lt;code&gt;код&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-3-списки&#34;&gt;📋 &lt;strong&gt;3. Списки&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Нумерованные:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Первый пункт  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Второй пункт  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Маркированные:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Вариант 1  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;*&lt;/span&gt; Вариант 2  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;+ Вариант 3  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-4-ссылки-и-изображения&#34;&gt;🔗 &lt;strong&gt;4. Ссылки и изображения&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ссылка&lt;/strong&gt;: &lt;code&gt;[текст](https://example.com)&lt;/code&gt; → &lt;a href=&#34;https://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;пример&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Картинка&lt;/strong&gt;: &lt;code&gt;![alt-текст](image.jpg)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-5-таблицы&#34;&gt;📊 &lt;strong&gt;5. Таблицы&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Столбец 1 | Столбец 2 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;|-----------|-----------|
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Ячейка 1 | Ячейка 2 |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-6-цитаты&#34;&gt;📜 &lt;strong&gt;6. Цитаты&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;Это цитата  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span class=&#34;ge&#34;&gt;Вторая строка цитаты  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-7-горизонтальная-линия&#34;&gt;⚡ &lt;strong&gt;7. Горизонтальная линия&lt;/strong&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;или  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;**&lt;/span&gt;*  
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;-где-использовать&#34;&gt;💡 &lt;strong&gt;Где использовать?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;• &lt;strong&gt;Документация&lt;/strong&gt; (GitHub, GitLab)&lt;br&gt;
+• &lt;strong&gt;Блоги&lt;/strong&gt; (Hugo, Jekyll)&lt;br&gt;
+• &lt;strong&gt;Заметки&lt;/strong&gt; (Obsidian, Notion)&lt;br&gt;
+• &lt;strong&gt;Чат-платформы&lt;/strong&gt; (Slack, Discord)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Markdown — это просто, как велосипед: один раз научился и пользуешься всю жизнь!&lt;/strong&gt; 🚴♂️&lt;/p&gt;
+&lt;p&gt;Попробуйте прямо сейчас — создайте файл &lt;code&gt;.md&lt;/code&gt; и напишите первый текст!&lt;/p&gt;
+&lt;p&gt;#Markdown #Программирование #Полезности #Формат&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 Пост по неделе 10-16 марта</title>
